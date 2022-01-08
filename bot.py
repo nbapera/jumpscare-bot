@@ -3,7 +3,6 @@ from discord.ext import commands
 from datetime import datetime
 from colorama import Fore
 from discord.voice_client import VoiceClient
-from asyncio import coroutine, run
 import time
 
 def get_time():
